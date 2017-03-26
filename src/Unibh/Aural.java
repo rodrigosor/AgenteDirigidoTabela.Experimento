@@ -6,7 +6,7 @@ import robocode.ScannedRobotEvent;
 import robocode.StatusEvent;
 
 /**
- * AURA - Apenas Um Robô Autônomo
+ * AURA - Apenas Um Robô Autônomo Limitado
  *
  * @version 1.0.0
  * @author Rodrigo Reis, Igor Bueloni, Wendell Ronald, Ivan Paulovich
